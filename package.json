@@ -1,0 +1,27 @@
+{
+  "name": "blockchain_node",
+  "version": "1.0.0",
+  "description": "basic blockchain using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-math/blockchain_node.git"
+  },
+  "keywords": [
+    "blockchain",
+    "node.js",
+    "crypto"
+  ],
+  "author": "Kevin Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-math/blockchain_node/issues"
+  },
+  "homepage": "https://github.com/kevin-math/blockchain_node#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
