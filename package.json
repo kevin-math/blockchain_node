@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kevin-math/blockchain_node/issues"
   },
-  "homepage": "https://github.com/kevin-math/blockchain_node#readme"
+  "homepage": "https://github.com/kevin-math/blockchain_node#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
 }
